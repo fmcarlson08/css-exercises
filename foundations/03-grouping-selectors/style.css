@@ -1,0 +1,15 @@
+#bkgd-color-bold {
+background-color: black;
+color: white;
+font-weight: bold;
+}
+
+#bkgd-only {
+background-color: yellow;
+}
+
+#bkgd-color-bold,
+#bkgd-only {
+font-size: 28px;
+font-family: "Helvetica","Times New Roman", sans-serif;
+}
